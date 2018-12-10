@@ -1,0 +1,26 @@
+body{
+    background-image: url(img/mario-bruns-330520-unsplash.jpg);
+    background-size: cover;
+    width: 0;
+    padding: 0;
+}
+
+.container{
+    padding: 10px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+/*    background-image: linear-gradient(to bottom, rgb(204, 204, 204),rgb(214, 212, 212));*/
+     /*box-shadow: 10px 10px 5px 0px rgba(179,179,179,1);*/
+}
+.info{
+    font-size: 50px;
+}
+.time{
+    font-size: 40px;
+}
+.names{
+    font-size: 15px;
+}
